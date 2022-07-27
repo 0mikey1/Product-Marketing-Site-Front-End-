@@ -1,0 +1,15 @@
+.landing {
+  display: flex;
+  align-items: center;
+  margin: 50px 0px 0px 0px;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.landing img {
+  width: 300px;
+  height: 300px;
+}
+.landing button {
+  margin-top: 40px;
+}

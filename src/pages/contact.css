@@ -1,0 +1,43 @@
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1 {
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+}
+
+.cus {
+  justify-content: center;
+  align-items: center;
+  padding-top: 200px;
+}
+
+input {
+  align-items: center;
+  width: 11%;
+  margin: auto;
+  padding: 10px;
+}
+
+textarea {
+  width: 11%;
+  height: 100%;
+  margin: auto;
+  padding: 10px;
+}
+
+button {
+  align-items: center;
+  margin: auto;
+  margin-top: 10px;
+}
+
+span {
+  align-items: center;
+  margin: auto;
+  padding-top: 10px;
+}
